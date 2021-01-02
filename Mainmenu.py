@@ -7,7 +7,7 @@ class MenuUtama:
     def Menu(self):
         Connect.Data_DB()
         pilihan = int(input('''
-        Selamat datang di Toko Kelontong Jaya Baru
+        Selamat datang PT Jaya Abadi
         1. Admin
         2. Karyawan
         '''))

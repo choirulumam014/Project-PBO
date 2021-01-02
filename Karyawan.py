@@ -21,7 +21,7 @@ class Karyawan (Connect.Data_DB):
     def FiturKaryawan(self,Username):
         Connect.Data_DB()
         FiturKaryawan = int(input(''' 
-            MENU Member
+            Silahkan pilih :
         1. Tampilkan Data Diri
         2. Tampilkan Rekam Kerja
         3. Tampilan Gaji Karyawan
